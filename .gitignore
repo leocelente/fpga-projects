@@ -45,7 +45,7 @@
 *.cmp
 *.eqn
 *.html
-*.jpg
+#*.jpg
 *.bak
 *.qar
 *.sopc_builder
